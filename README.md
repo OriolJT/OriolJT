@@ -17,6 +17,7 @@ Open to remote backend roles (EU/UK timezone). Interested in teams that value ow
 | Project | Summary |
 |---------|---------|
 | [Event-Driven Commerce Platform](https://github.com/OriolJT/event-driven-commerce-platform) | Production-grade microservices with Kafka saga choreography, transactional outbox, idempotent consumers, and full observability. |
+| [User Service (Production-Ready)](https://github.com/OriolJT/user-service-production-ready) | Spring Boot service with JWT auth, RBAC, Redis caching, PostgreSQL, Flyway, Testcontainers, Docker, and CI/CD. |
 | [Task Management API](https://github.com/OriolJT/task_management_api) | Spring Boot REST API with Keycloak JWT auth, ownership enforcement, pagination, CI/CD pipeline, and Dockerized deployment. |
 
 ---
