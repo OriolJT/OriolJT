@@ -1,34 +1,33 @@
-# Oriol Torres
+# Senior Backend Engineer | Java | Spring Boot | Quarkus | Distributed Systems
 
-**Senior Backend Engineer | Java | Spring Boot | Quarkus | Distributed Systems**
+I build and own production backend systems end-to-end. 4+ years as the sole backend engineer at a B2B e-commerce platform serving 10,000+ customers — leading a platform-wide Java 21 migration across 15+ services, designing centralized SSO for 8,000 users, and diagnosing long-standing production bugs in legacy codebases. Remote-experienced, async-native, and comfortable operating with full ownership.
 
-Backend Engineer with 4+ years specializing in Java production systems at scale. Sole backend owner of platform components serving 10,000+ customers — from platform-wide Java 21 migrations across 15+ services, to designing centralized SSO for 8,000 users, to hunting down long-standing production bugs in legacy codebases. Remote-experienced and async-native, with a track record of owning complex systems end-to-end.
-
----
-
-### What I'm looking for
-
-Open to remote backend roles (EU/UK timezone). Interested in teams that value ownership, async collaboration, and building systems that last.
+Open to remote backend roles (EU/UK timezone preferred). Looking for teams that value ownership, async collaboration, and building systems that last.
 
 ---
 
 ### Featured Projects
 
-| Project | Summary |
-|---------|---------|
-| [Event-Driven Commerce Platform](https://github.com/OriolJT/event-driven-commerce-platform) | Production-grade microservices with Kafka saga choreography, transactional outbox, idempotent consumers, and full observability. |
-| [User Service (Production-Ready)](https://github.com/OriolJT/user-service-production-ready) | Spring Boot service with JWT auth, RBAC, Redis caching, PostgreSQL, Flyway, Testcontainers, Docker, and CI/CD. |
-| [Task Management API](https://github.com/OriolJT/task_management_api) | Spring Boot REST API with Keycloak JWT auth, ownership enforcement, pagination, CI/CD pipeline, and Dockerized deployment. |
+**[Event-Driven Commerce Platform](https://github.com/OriolJT/event-driven-commerce-platform)**
+Production-grade microservices with Kafka saga choreography, transactional outbox for zero data loss, idempotent consumers, and full observability stack (Prometheus, Grafana, Tempo). 4 services, 9-container local stack, integration-tested with real Kafka and PostgreSQL.
+
+**[User Service (Production-Ready)](https://github.com/OriolJT/user-service-production-ready)**
+Secure Spring Boot service with self-issued JWT auth, RBAC, refresh token rotation, Redis caching with TTL eviction, Flyway migrations, Testcontainers integration tests, multi-stage Docker build, and CI/CD with coverage reporting.
+
+**[Task Management API](https://github.com/OriolJT/task_management_api)**
+Business-focused REST API with Keycloak JWT integration, strict ownership enforcement (user -> project -> task), pagination with RFC-5988 Link headers, structured error envelopes, Dockerized deployment, Helm chart, and live OpenAPI docs.
 
 ---
 
-### Core Skills
+### Skills
 
-**Languages:** Java (Advanced), Python
-**Frameworks:** Spring Boot, Quarkus, Hibernate/JPA, JUnit, Microservices, REST APIs
-**Infrastructure:** Docker, Kafka, Keycloak, Jenkins, CI/CD
-**Databases:** PostgreSQL, MariaDB, SQL
-**Practices:** Event-driven architecture, SSO/auth design, platform migrations, clean code, integration testing
+| | |
+|---|---|
+| **Languages** | Java (Advanced), Python |
+| **Frameworks** | Spring Boot, Quarkus, Hibernate/JPA, JUnit 5, Microservices |
+| **Infrastructure** | Docker, Kafka, Keycloak, Jenkins, GitHub Actions, CI/CD |
+| **Databases** | PostgreSQL, MariaDB, Redis |
+| **Architecture** | Event-driven systems, saga patterns, SSO/auth design, REST APIs, platform migrations |
 
 ---
 
