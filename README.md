@@ -2,8 +2,6 @@
 
 I build and own production backend systems end-to-end. 4+ years as the sole backend engineer at a B2B e-commerce platform serving 10,000+ customers — leading a platform-wide Java 21 migration across 15+ services, designing centralized SSO for 8,000 users, and diagnosing long-standing production bugs in legacy codebases. Remote-experienced, async-native, and comfortable operating with full ownership.
 
-Open to remote backend roles (EU/UK timezone preferred). Looking for teams that value ownership, async collaboration, and building systems that last.
-
 ---
 
 ### Featured Projects
